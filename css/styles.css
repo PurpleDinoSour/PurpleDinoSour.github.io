@@ -1767,7 +1767,7 @@ h6,
     font-family: var(--font-2);
     font-weight: 600;
     font-style: normal;
-    color: var(--color-text-dark);
+    color: var(--color-text-light);
     -webkit-font-variant-ligatures: common-ligatures;
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
@@ -4061,7 +4061,7 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-services {
     background-color: var(--color-dark-bg);
-    padding-top: calc(7 * var(--space));
+    padding-top: calc(3 * var(--space));
     padding-bottom: calc(6 * var(--space));
     color: rgba(255, 255, 255, 0.4);
 }
